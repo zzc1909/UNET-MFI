@@ -1,5 +1,5 @@
-# UNT-MFI:Modality-adaptive Feature Interaction for Brain Tumor Segmentation with Missing Modalities  
-This repository is the work of "Modality-adaptive Feature Interaction for Brain Tumor Segmentation with Missing Modalities " based on pytorch implementation
+# UNT-MFI: Modality-adaptive Feature Interaction for Brain Tumor Segmentation with Missing Modalities  
+This repository is the work of "Modality-adaptive Feature Interaction for Brain Tumor Segmentation with Missing Modalities " based on pytorch implementation.
 
 ## Requirements  
 All experiments use the PyTorch library. We recommend installing the following package versions:
