@@ -3,11 +3,11 @@ This repository is the work of "Modality-adaptive Feature Interaction for Brain 
 
 ## Requirements
 
-## Dateset
+## Dateset  
 ### Data preprocess
 
 ## Training
 
-##Inference
+## Inference
 
-##Acknowledge
+## Acknowledge
